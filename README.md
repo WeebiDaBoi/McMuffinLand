@@ -1,3 +1,3 @@
-# http://www.mcmuffinland.cf/
+# https://www.mcmuffinland.cf/
 
 This is a website I made for my friend
